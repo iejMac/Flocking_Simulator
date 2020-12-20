@@ -15,6 +15,4 @@ Boids at t=0:
 Boids at t=n:
 ![t1](boids_tn.png)
 
-
-
-
+Beautiful results. Pretty interesting that fairly realistic behavior can emerge from 3 simple rules.
